@@ -1,6 +1,8 @@
-# Daniel de Magalhães Cabral Balera
-# 16 anos
-# Aniversário 30/12
-# Jogo NieR Replicant ver.1.22474487139... no pc
-# Nascido em São Paulo/SP
-# Eu amo a aula de Zumba mas amo mesmo a de Programação de Aplicativos
+x = 34 - 23
+y = "Hello"
+z = 3.45
+if z == 3.45 or y == "Hello":
+    x = x + 1
+    y = y + " World"
+print(x)
+print(y)
