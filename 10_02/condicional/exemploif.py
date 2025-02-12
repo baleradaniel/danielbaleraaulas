@@ -6,3 +6,4 @@ elif num1 == 10:
     print('Ele é igual á 10')
 else:
     print('Ele é menor que 10')
+ 
