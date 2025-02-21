@@ -5,5 +5,5 @@ livro = mais_vendidos['livros']
 #uso de chaves para acessar o valor 
 print(mais_vendidos.get('geladeiras'))
 #uso do get para acessar o valor 
-#print(mais_vendidos['geladeiras'])
+print(mais_vendidos['geladeiras'])
 print('Fim do programa')

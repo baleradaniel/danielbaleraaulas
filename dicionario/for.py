@@ -5,3 +5,9 @@ for chave in vendas_tecnologia:
 
 for chave in vendas_tecnologia:
     print('O produto {} vendeu {} unidades.'.format(chave, vendas_tecnologia[chave]))
+
+for item in vendas_tecnologia.items():
+    print(item)
+
+for produto, vendas in vendas_tecnologia.items():
+    print('{}: {} de unidades.'.format(produto, vendas))
